@@ -15,5 +15,4 @@ What trends exist across item types, fat content, and outlets?
 -  ![Neha Kulkarni-Blinkit Dashboard] <a href="https://github.com/user-attachments/assets/c2ce0f6a-80cd-4a87-8ab7-8ff7a8427611)">View Dashboard</a> 
 
 ##Dashboard
-
 ![Neha Kulkarni-Blinkit Dashboard](https://github.com/user-attachments/assets/bbc0b622-c385-44b6-bbcf-6718163e1d56)
