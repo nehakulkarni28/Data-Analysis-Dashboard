@@ -16,3 +16,9 @@ What trends exist across item types, fat content, and outlets?
 
 ##Dashboard
 ![Neha Kulkarni-Blinkit Dashboard](https://github.com/user-attachments/assets/bbc0b622-c385-44b6-bbcf-6718163e1d56)
+
+##✅ Project Outcomes:
+Identified top-performing product types and fat content patterns.Uncovered customer rating trends across item types.Evaluated outlet performance by age/type for strategic planning
+
+##🚀 Future Improvements:
+Incorporate real-time data pipelines.Integrate predictive analytics for demand forecasting.Deploy dashboard using Power BI Service for collaboration
